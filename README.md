@@ -15,6 +15,10 @@ Este é o projeto DevCafé, onde alunos do workshop de Git e GitHub da programaA
 
 ## Dicas Úteis
 
+### Use mensagens de commits claras
+
+Você pode utilizar o conventional commits como base: https://www.conventionalcommits.org/en/v1.0.0/
+
 ### Como Resolver um Conflito
 
 Quando há conflitos durante um merge ou pull, edite os arquivos conflitantes, resolva as diferenças e use `git add` seguido de `git commit`.
